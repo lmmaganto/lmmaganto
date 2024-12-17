@@ -13,18 +13,18 @@
   learn and take initiative to grow my skills with a focus on building machine learning models addressing real-world problems 
   and diving deeper into the intersection of data science, data privacy and ethical AI.
 	
-🎯 Feature Project: Unsupervised Machine Learning Identifying the most important factors in K-12 Student proficiency in subject areas.
+🎯 **Feature Project**: Unsupervised Machine Learning Identifying the most important factors in K-12 Student proficiency in subject areas.
 - What we did: Created a merge data frame from 5 data frames regarding student data courses taken, demographics, etc, and used Principal
 - Component Analysis and encoded our data for data reduction.
 - Tools: PCA, Python,scikit-learn, Seaborn
 - Result: Predicted up to 80% accuracy and provided insights that helped guide data-driven improvements to K-12 School Administrators.
 - Curious? See the full project here ->    <a href="https://github.com/level-data-1a/predicting-proficiency">Predicting Proficiency</a>
 
-🛠 Tech Stack:
+🛠 **Tech Stack:**
 - Languages: Python, Java, C++
 - Data Science: Pandas, NumPy, scikit-learn, TensorFlow
 
-🚀 Projects:
+🚀 **Projects:**
   A few other noteworthy projects I've worked on
 1. 1994 Census: Predicting Educational Achievement
    <a href="https://github.com/lmmaganto/1994_Census/tree/main">1994 Census</a>
@@ -39,9 +39,9 @@
   -   Tech Stack:  Statsmodels, Matplotlib, Numpy
   -   Learnings: Variance, Z-score
     
-📫 How to reach me:
+📫 **How to reach me:**
 - Email: Lmmaganto25@gmail.com
 - LinkedIn:https://www.linkedin.com/in/louise-marie-maganto-958410205/
 
- ✨ Fun fact: A few of my hobbies include baking,crocheting, and making caffinated breveges.
+ ✨ **Fun fact:** A few of my hobbies include baking,crocheting, and making caffinated breveges.
 
